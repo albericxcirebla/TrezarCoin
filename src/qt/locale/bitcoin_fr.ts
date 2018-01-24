@@ -17,13 +17,13 @@
     <message>
         <location line="+13"/>
         <source>
-This is experimental software.
+Il s'agit d'un logiciel expérimental.
 
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-This is experimental software.
+Il s'agit d'un logiciel expérimental.
 
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-46"/>
         <source>These are your Trezarcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Trezarcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <translation>Ce sont vos adresses Trezarcoin permettant de recevoir des paiements. Vous pouvez en fournir une différente à chaque payeur afin de garder une trace de qui vous a payé.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -70,7 +70,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Show &amp;QR code</source>
-        <translation>Show &amp;QR code</translation>
+        <translation>Afficher &amp;QR code</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -115,7 +115,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation>Exporter les données du carnet d'adresse</translation>
+        <translation>Exporter les données du carnet d'adresses</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -143,12 +143,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>Address</translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(no label)</translation>
+        <translation>(pas d'étiquette)</translation>
     </message>
 </context>
 <context>
@@ -156,7 +156,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Passphrase Dialog</translation>
+        <translation>Mot de passe</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -181,7 +181,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line=""/>
         <source>Disables outgoing payments and key import/export functions</source>
-        <translation>Disables outgoing payments and key import/export functions</translation>
+        <translation>Désactive les paiements sortants ainsi que les fonctions d'import/export de clef</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
@@ -2101,7 +2101,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Saisissez une étiquette pour cette adresse afin de l'ajouter à votre carnet d'adresse</translation>
+        <translation>Saisissez une étiquette pour cette adresse afin de l'ajouter à votre carnet d'adresses</translation>
     </message>
     <message>
         <location line="+9"/>
